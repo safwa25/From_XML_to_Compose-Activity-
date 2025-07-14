@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">From XML to Compose Activity</string>
+    <string name="add_medication">Add Medication</string>
+    <string name="medication_name">Medication Name</string>
+    <string name="dosage">Dosage</string>
+    <string name="recurrence">Recurrence</string>
+    <string name="dropdown_arrow">Dropdown arrow</string>
+    <string name="end_date">End Date</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="times_of_day">Times of Day</string>
+    <string name="night">Night</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+    <string name="morning">Morning</string>
+    <string name="save">Save</string>
 </resources>

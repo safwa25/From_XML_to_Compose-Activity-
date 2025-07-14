@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- No border when selected -->
+    <item android:color="@android:color/transparent" android:state_checked="true"/>
+    <!-- Gray border when not selected -->
+    <item android:color="#C94C4545"/>
+</selector>
